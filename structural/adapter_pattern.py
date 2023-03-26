@@ -18,6 +18,8 @@ The Adapter Pattern allows existing classes to be reused without modifying their
 that have incompatible interfaces. It is commonly used in software systems where different subsystems or components have
 different interfaces and need to be integrated.
 """
+
+
 from abc import ABC, abstractmethod
 
 
