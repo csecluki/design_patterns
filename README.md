@@ -35,6 +35,6 @@ Checklist:
   * Bridge pattern :x:
   * Composite pattern :x:
   * Decorator pattern :x:
-  * Facade pattern :x:
+  * Facade pattern :heavy_check_mark:
   * Flyweight pattern :x:
   * Proxy pattern :x:
