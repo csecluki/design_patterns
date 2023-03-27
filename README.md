@@ -5,9 +5,9 @@ Design patterns are like pre-packaged solutions for software developers to use w
 
 There are different categories of design patterns, including:
 
-Creational Patterns: These help developers create objects that are flexible and easy to use.
-Structural Patterns: These help developers make complex structures from simple objects and classes.
-Behavioral Patterns: These are all about how objects talk to each other and manage their relationships.
+ 1. Creational Patterns: These help developers create objects that are flexible and easy to use.
+ 2. Structural Patterns: These help developers make complex structures from simple objects and classes.
+ 3. Behavioral Patterns: These are all about how objects talk to each other and manage their relationships.
 
 By using design patterns, developers can create software that's easier to maintain, easier to extend, and less prone to bugs and errors.
 
