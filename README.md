@@ -15,7 +15,7 @@ Checklist:
 * Behavioral:
   * Observer pattern :heavy_check_mark:
   * Template Method pattern :x:
-  * Command pattern :x:
+  * Command pattern :heavy_check_mark:
   * Chain of Responsibility pattern :x:
   * Interpreter pattern :x:
   * Iterator pattern :x:
