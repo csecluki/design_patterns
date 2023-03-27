@@ -11,7 +11,8 @@ There are different categories of design patterns, including:
 
 By using design patterns, developers can create software that's easier to maintain, easier to extend, and less prone to bugs and errors.
 
-Checklist:
+# Checklist:
+
 * Behavioral:
   * Observer pattern :heavy_check_mark:
   * Template Method pattern :x:
