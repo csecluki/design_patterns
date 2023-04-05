@@ -28,7 +28,7 @@ Checklist:
   * Singleton pattern :x:
   * Factory pattern :heavy_check_mark:
   * Abstract Factory pattern :x:
-  * Builder pattern :x:
+  * Builder pattern :heavy_check_mark:
   * Prototype pattern :x:
 * Structural:
   * Adapter pattern :heavy_check_mark:
