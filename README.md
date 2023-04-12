@@ -1,5 +1,5 @@
 # Design Patterns
-Short examples of design patterns implementation with description. All examples are pizza related.
+Short examples of design patterns implementation with description. All examples are pizza themed.
 
 Design patterns are like pre-packaged solutions for software developers to use when they're faced with common problems during the design and implementation of software applications. They help developers create software that's easy to change, easy to add on to, and easy to keep up with.
 
@@ -23,7 +23,7 @@ By using design patterns, developers can create software that's easier to mainta
   * Mediator pattern :x:
   * Memento pattern :x:
   * State pattern :x:
-  * Strategy pattern :x:
+  * Strategy pattern :heavy_check_mark:
   * Visitor pattern :x:
 * Creational:
   * Singleton pattern :x:
