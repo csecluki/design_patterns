@@ -17,7 +17,7 @@ By using design patterns, developers can create software that's easier to mainta
   * Observer pattern :heavy_check_mark:
   * Template Method pattern :x:
   * Command pattern :heavy_check_mark:
-  * Chain of Responsibility pattern :x:
+  * Chain of Responsibility pattern :heavy_check_mark:
   * Interpreter pattern :x:
   * Iterator pattern :x:
   * Mediator pattern :x:
